@@ -40,4 +40,4 @@ build/
 /target
 *.class
 *.log
-*.db
+
